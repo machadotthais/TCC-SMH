@@ -1,6 +1,6 @@
 package com.letscodeTCCSMH.TCCSMH.Model;
 
-public class cadastroUsuario {
+public class CadastroUsuario {
     private String email;
     private String nomeCompleto;
     private String codigoFuncional;

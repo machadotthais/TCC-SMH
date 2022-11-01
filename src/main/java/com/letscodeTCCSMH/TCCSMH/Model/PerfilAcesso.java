@@ -3,7 +3,7 @@ package com.letscodeTCCSMH.TCCSMH.Model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class perfilAcesso {
+public class PerfilAcesso {
     private String nome;
 
     private String descricao;
